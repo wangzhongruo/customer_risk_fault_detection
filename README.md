@@ -1,6 +1,6 @@
 ## TCN Transactions Fraud Score for Customer Risk Model
 
-This directory contains the application of `Temporal Convolutional Networks (TCN)` to the SoFi Money transactions data to predict a fraud score, then treat the fraud score as an input feature toward the `Customer Risk Lightgbm` model. More details can be found in this [deck](https://docs.google.com/presentation/d/1d4A6d24Ql_DuDkVLzzKrHY3pL756UD4vuapq95xDn08/edit#slide=id.g5c76594aa8_0_304).
+This directory contains the application of `Temporal Convolutional Networks (TCN)` to the SoFi Money transactions data to predict a fraud score, then treat the fraud score as an input feature toward the `Customer Risk Lightgbm` model. More details can be found in this [deck](https://github.com/wangzhongruo/customer_risk_model/blob/master/Risk%20model%20-%20TCN%20Presentation.pdf).
 
 **This version is currently in production.**
 
